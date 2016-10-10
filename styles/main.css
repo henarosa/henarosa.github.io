@@ -10,6 +10,6 @@ img {
   display: block;
 }
 
-nav ul {
+nav ul li{
   display: inline;
 }
